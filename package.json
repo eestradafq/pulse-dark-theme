@@ -14,7 +14,7 @@
       {
         "label": "Pulse Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Pulse Dark Theme-color-theme.json"
+        "path": "./themes/pulse-dark-theme.json"
       }
     ]
   }
