@@ -3,6 +3,17 @@
   "displayName": "Pulse Dark Theme",
   "description": "A clean and modern dark theme for Visual Studio Code with balanced colors and smooth syntax highlighting.",
   "version": "0.0.1",
+  "publisher": "eestradafq",
+	"repository": {
+    "type": "git",
+		"url": "https://github.com/eestradafq/pulse-dark-theme.git"
+	},
+  "bugs": {
+    "url": "https://github.com/eestradafq/pulse-dark-theme/issues"
+  },
+  "homepage": "https://github.com/eestradafq/pulse-dark-theme#readme",
+  "keywords": ["theme", "dark", "color-theme"],
+  "icon": "./images/icon.png",
   "engines": {
     "vscode": "^1.102.0"
   },
