@@ -107,7 +107,7 @@ This is the first release of **Pulse Dark Theme** - a clean and modern dark them
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/pulse-dark-theme/issues)
+- **Issues**: [GitHub Issues](https://github.com/eestradafq/pulse-dark-theme/issues)
 - **Feature Requests**: Use GitHub Issues with `enhancement` label
 - **Documentation**: [README.md](README.md)
 - **Community**: VS Code Marketplace reviews and ratings

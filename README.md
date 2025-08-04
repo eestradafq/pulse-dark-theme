@@ -147,7 +147,7 @@ Contributions are welcome! If you find a bug or have a suggestion:
 5. Open a Pull Request
 
 ### Reporting Issues
-- Use [GitHub Issues](https://github.com/yourusername/pulse-dark-theme/issues)
+- Use [GitHub Issues](https://github.com/eestradafq/pulse-dark-theme/issues)
 - Include screenshots if possible
 - Specify your VS Code version and operating system
 
@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ❤️ Acknowledgments
 
-- Inspired by popular themes like One Dark Pro and Material Theme
+- Inspired by modern dark theme design principles
 - Colors carefully selected for optimal development experience
 - VS Code community for feedback and suggestions
 
