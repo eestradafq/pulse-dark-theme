@@ -1,7 +1,7 @@
 # 🌙 Pulse Dark Theme
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/yourusername/pulse-dark-theme)
-[![VS Code](https://img.shields.io/badge/VS%20Code-1.102.0+-007ACC.svg)](https://code.visualstudio.com/)
+[![Version](https://img.shields.io/badge/version-0.0.3-blue.svg)](https://github.com/yourusername/pulse-dark-theme)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.100.0+-007ACC.svg)](https://code.visualstudio.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A clean and modern dark theme for Visual Studio Code with balanced colors and smooth syntax highlighting that's easy on your eyes during long coding sessions.
@@ -55,13 +55,16 @@ For the best experience with Pulse Dark Theme, we recommend using these settings
 
 ```json
 {
-  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
-  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Pulse Dark Theme",
+  "editor.fontFamily": "Fira Code, 'Cascadia Code' ,Consolas, 'Courier New', monospace",
   "editor.fontSize": 14,
-  "editor.lineHeight": 1.5,
-  "editor.cursorBlinking": "smooth",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "workbench.iconTheme": "material-icon-theme"
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontFamily": "Fira Code, 'Cascadia Code' ,Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontWeight": "500"
 }
 ```
 
@@ -81,40 +84,6 @@ Pulse Dark Theme includes optimized support for:
 - **Go** - Operators and packages
 - **Rust** - Lifetimes and ownership
 - **And many more...**
-
-## 📷 Screenshots
-
-### JavaScript/TypeScript
-```javascript
-// Example code with Pulse Dark Theme
-class PulseTheme {
-  constructor(name) {
-    this.name = name;
-    this.colors = ['#efb080', '#87c3ff', '#e394dc'];
-  }
-  
-  applyTheme() {
-    console.log(`Applying theme: ${this.name}`);
-    return this.colors.map(color => `hsl(${color})`);
-  }
-}
-```
-
-### Python
-```python
-# Decorators and classes with optimized highlighting
-@dataclass
-class ThemeConfig:
-    name: str = "Pulse Dark"
-    background: str = "#1a1a1a"
-    
-    def get_colors(self) -> Dict[str, str]:
-        return {
-            "functions": "#efb080",
-            "classes": "#87c3ff",
-            "strings": "#e394dc"
-        }
-```
 
 ## 🛠️ Development
 
@@ -150,15 +119,6 @@ Contributions are welcome! If you find a bug or have a suggestion:
 - Use [GitHub Issues](https://github.com/eestradafq/pulse-dark-theme/issues)
 - Include screenshots if possible
 - Specify your VS Code version and operating system
-
-## 📝 Changelog
-
-### [0.0.1] - 2025-08-03
-- ✨ Initial theme release
-- 🎨 Base color palette implemented
-- 💻 Support for all major languages
-- 🔧 Semantic color configuration
-- 📚 Initial documentation
 
 ## 📄 License
 
