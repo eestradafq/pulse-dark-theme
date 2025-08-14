@@ -1,6 +1,6 @@
 # 🌙 Pulse Dark Theme
 
-[![Version](https://img.shields.io/badge/version-0.0.3-blue.svg)](https://github.com/yourusername/pulse-dark-theme)
+[![Version](https://img.shields.io/badge/version-0.0.4-blue.svg)](https://github.com/yourusername/pulse-dark-theme)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.100.0+-007ACC.svg)](https://code.visualstudio.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -63,6 +63,8 @@ For the best experience with Pulse Dark Theme, we recommend using these settings
   "editor.guides.bracketPairs": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.linkedEditing": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
   "terminal.integrated.fontFamily": "Fira Code, 'Cascadia Code' ,Consolas, 'Courier New', monospace",
   "terminal.integrated.fontWeight": "500"
 }
