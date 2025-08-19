@@ -113,7 +113,7 @@
 		"list.inactiveSelectionBackground": "#ffffff10",
 		"list.inactiveSelectionForeground": "#ffffffd7",
 		"list.deemphasizedForeground": "#CCCCCC",
-		"list.dropBackground": "#FFFFFF99",
+		"list.dropBackground": "#3F3F3F",
 		"list.errorForeground": "#BF616A",
 		"list.focusBackground": "#434C5E",
 		"list.focusForeground": "#ECEFF4",
