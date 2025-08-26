@@ -115,7 +115,7 @@
 		"list.deemphasizedForeground": "#CCCCCC",
 		"list.dropBackground": "#3F3F3F",
 		"list.errorForeground": "#BF616A",
-		"list.focusBackground": "#434C5E",
+		"list.focusBackground": "#ffffff1d",
 		"list.focusForeground": "#ECEFF4",
 		"list.highlightForeground": "#88C0D0",
 		"list.hoverBackground": "#2A2A2A99",
